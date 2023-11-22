@@ -1,0 +1,20 @@
+void reqemleriyaz()
+{
+textSize(17);
+fill(255);
+strokeWeight(5);;
+text("140",250+130*cos(radians(13.0263157895)),250+193*sin(radians(13.0263157895)));
+text("160",250+122*cos(radians(39.0789473685)),250+170*sin(radians(39.0789473685)));
+text("180",250+97*cos(radians(65.1315789475)),250+164*sin(radians(65.1315789475)));
+text("200",230+135*cos(radians(91.1842105265)),250+162*sin(radians(91.1842105265)));
+text("220",233+140*cos(radians(117.2368421055)),245+165*sin(radians(117.2368421055)));
+text("240",229+135*cos(radians(143.2894736845)),231+196*sin(radians(143.2894736845)));
+text("250",222+135*cos(radians(156.315789474)),250+160*sin(radians(156.315789474)));
+text("300",219+135*cos(radians(180)),255+160*sin(radians(180)));
+text("350",223+135*cos(radians(200.5)),255+160*sin(radians(200.5)));
+text("400",230+135*cos(radians(223)),255+160*sin(radians(223)));
+text("60",241+135*cos(radians(270)),260+160*sin(radians(270)));
+text("80",244+135*cos(radians(296.052631579)),260+160*sin(radians(296.052631579)));
+text("100",241+135*cos(radians(322.105263158)),257+160*sin(radians(322.105263158)));
+text("120",247+135*cos(radians(348.157894737)),255+160*sin(radians(348.157894737)));
+}
